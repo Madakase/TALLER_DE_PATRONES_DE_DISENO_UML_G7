@@ -7,7 +7,6 @@ public abstract class Transporte implements Transportable {
 	protected String tipo;
 
 	public void almacenarArticulo() {
-		// TODO - implement Transporte.almacenarArticulo
 		throw new UnsupportedOperationException();
 	}
 
